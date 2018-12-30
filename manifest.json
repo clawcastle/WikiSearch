@@ -1,0 +1,11 @@
+{
+  "name": "Wiki Search",
+  "short_name": "WikiSearch",
+  "version": "1.0",
+  "description": "Allows you to search for any selected word or phrase on wikipedia through the right click menu",
+  "manifest_version": 2,
+  "background": {
+    "page": "background.html"
+  },
+  "permissions": ["contextMenus", "tabs"]
+}
